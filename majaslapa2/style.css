@@ -1,0 +1,12 @@
+table,tr,td{
+    border:1px solid;
+
+}
+.tabula{
+    background-color: lightpink;
+}
+ul li{
+    list-style-type:square;
+    color: blueviolet;
+
+}
